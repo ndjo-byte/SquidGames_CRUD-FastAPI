@@ -1,0 +1,51 @@
+id,supplier_id,game_type,installation_date
+1,40,honeycomb,Tue Sep 07 2010 02:00:00
+2,13,glass bridge,Mon Mar 17 2008 01:00:00
+3,3,red light green light,Sat Oct 28 2000 02:00:00
+4,13,glass bridge,Sun Mar 12 2000 01:00:00
+5,16,tug of war,Thu Nov 03 2005 01:00:00
+6,37,red light green light,Thu Oct 28 2004 02:00:00
+7,48,glass bridge,Tue Feb 27 2007 01:00:00
+8,9,red light green light,Sat Sep 29 2007 02:00:00
+9,9,glass bridge,Sat Oct 15 2005 02:00:00
+10,42,honeycomb,Sat Feb 14 2009 01:00:00
+11,47,honeycomb,Fri Dec 14 2001 01:00:00
+12,33,pentathlon,Wed May 30 2001 02:00:00
+13,8,red light green light,Wed Nov 22 2000 01:00:00
+14,12,red light green light,Wed Sep 08 2010 02:00:00
+15,29,red light green light,Thu Jun 30 2005 02:00:00
+16,40,glass bridge,Sun Oct 08 2006 02:00:00
+17,22,honeycomb,Tue Feb 26 2002 01:00:00
+18,14,honeycomb,Wed Nov 17 2010 01:00:00
+19,3,honeycomb,Sat Nov 08 2008 01:00:00
+20,2,marbles,Mon Jul 23 2001 02:00:00
+21,11,pentathlon,Tue Oct 09 2001 02:00:00
+22,14,red light green light,Sun Feb 25 2007 01:00:00
+23,36,red light green light,Sat Sep 17 2005 02:00:00
+24,16,honeycomb,Wed Nov 04 2009 01:00:00
+25,46,marbles,Tue Nov 14 2000 01:00:00
+26,21,tug of war,Fri Dec 18 2009 01:00:00
+27,19,pentathlon,Sun Dec 25 2005 01:00:00
+28,16,glass bridge,Tue Jul 14 2009 02:00:00
+29,38,tug of war,Sat Jul 02 2005 02:00:00
+30,30,tug of war,Tue Sep 05 2006 02:00:00
+31,46,marbles,Wed Mar 19 2003 01:00:00
+32,12,red light green light,Mon Nov 08 2004 01:00:00
+33,4,red light green light,Tue Jan 26 2010 01:00:00
+34,32,honeycomb,Mon Oct 20 2003 02:00:00
+35,42,marbles,Wed Sep 12 2001 02:00:00
+36,20,red light green light,Sun Sep 07 2008 02:00:00
+37,33,pentathlon,Sun Jan 23 2005 01:00:00
+38,3,pentathlon,Tue Oct 05 2004 02:00:00
+39,44,pentathlon,Sat Dec 07 2002 01:00:00
+40,46,tug of war,Mon Dec 24 2007 01:00:00
+41,40,honeycomb,Thu Jan 23 2003 01:00:00
+42,26,marbles,Tue Mar 04 2003 01:00:00
+43,31,red light green light,Sat Mar 17 2007 01:00:00
+44,2,glass bridge,Sun Jul 14 2002 02:00:00
+45,11,red light green light,Tue Sep 09 2003 02:00:00
+46,28,glass bridge,Sun May 05 2002 02:00:00
+47,27,red light green light,Thu Dec 16 2010 01:00:00
+48,25,marbles,Mon Oct 09 2000 02:00:00
+49,8,red light green light,Sun May 04 2008 02:00:00
+50,15,red light green light,Mon Mar 01 2010 01:00:00
